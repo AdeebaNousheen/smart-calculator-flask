@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+https://smart-calculator-flask.onrender.com
+
 # Smart Calculator – Python Flask Web App
 
 A browser-based Smart Calculator built using **Python and Flask**.
